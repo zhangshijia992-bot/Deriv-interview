@@ -8,7 +8,7 @@ It does not call external LLM APIs. Retrieval uses TF-IDF and cosine similarity.
 
 ```text
 .
-├── app.py
+├── App.py
 ├── requirements.txt
 ├── README.md
 └── docs/
