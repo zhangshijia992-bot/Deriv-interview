@@ -1,0 +1,13 @@
+DerivMate is a fictional productivity platform designed to help small teams manage tasks, documents, and customer requests in one place.
+
+The product provides a shared workspace where users can create projects, assign tasks, upload documents, and track team progress. Each workspace can contain multiple projects, and each project can include tasks, comments, deadlines, and file attachments.
+
+DerivMate supports three user roles: Owner, Admin, and Member. Owners can manage billing and workspace settings. Admins can invite users, manage projects, and update team permissions. Members can create tasks, comment on work items, and view assigned projects.
+
+The platform is intended for small businesses, student teams, and early-stage startups that need a simple collaboration tool without complex setup. It is not designed for highly regulated industries such as healthcare, banking, or legal case management.
+
+The free plan supports up to 5 users, 3 active projects, and 500 MB of file storage. The Pro plan supports up to 50 users, unlimited active projects, and 50 GB of file storage. Enterprise customers can request custom storage limits, audit logs, and priority support.
+
+DerivMate is available as a web application. A mobile version is planned for future release, but it is not currently available.
+
+Customer support is available by email from Monday to Friday, 9:00 AM to 6:00 PM. Pro and Enterprise customers receive faster support response times than Free plan users.

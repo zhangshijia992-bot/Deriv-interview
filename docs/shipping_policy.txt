@@ -1,0 +1,13 @@
+DerivMate is a digital software product and does not ship physical goods. There are no shipping fees, delivery tracking numbers, or physical delivery times for the service.
+
+After a customer successfully creates an account, access to the Free plan is available immediately. For paid plans, access is usually activated immediately after payment confirmation.
+
+In rare cases, paid plan activation may take up to 24 hours if the payment provider requires additional verification. If access is not activated after 24 hours, the customer should contact support.
+
+Invoices and receipts are delivered electronically to the account email address. Customers can also download invoices from the billing section of the workspace settings page.
+
+Because DerivMate is delivered online, customers are responsible for having a stable internet connection and a supported web browser. The recommended browsers are the latest versions of Chrome, Edge, Firefox, or Safari.
+
+DerivMate does not send USB drives, printed manuals, installation discs, or paper invoices by mail.
+
+Enterprise onboarding materials may be delivered by email or shared through a secure online link. These materials are digital only and are not physically shipped.

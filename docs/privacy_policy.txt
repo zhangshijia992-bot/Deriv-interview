@@ -1,0 +1,17 @@
+DerivMate collects only the information needed to provide and improve the service. This may include the user's name, email address, workspace name, project information, task activity, uploaded files, billing details, and support messages.
+
+DerivMate uses customer data to create accounts, provide access to workspaces, process payments, send service notifications, respond to support requests, and improve product reliability.
+
+DerivMate does not sell customer personal data to advertisers or third-party marketing companies.
+
+Uploaded files and project content belong to the customer. DerivMate employees do not view customer files unless required for support, security investigation, legal compliance, or system maintenance.
+
+Payment information is processed by a third-party payment provider. DerivMate does not store full credit card numbers on its own servers.
+
+Customer data is protected using reasonable technical and organizational safeguards, including access controls, encrypted connections, and regular security reviews.
+
+Users can request account deletion by contacting support. After deletion is confirmed, most account data will be removed within 30 days. Some billing records, security logs, or legal records may be kept longer if required by law.
+
+DerivMate may use aggregated and anonymized usage statistics to understand product performance. These statistics do not identify individual users.
+
+If there is a serious data security incident that affects customer information, DerivMate will notify affected customers as soon as reasonably possible.

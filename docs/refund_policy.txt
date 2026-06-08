@@ -1,0 +1,15 @@
+DerivMate offers refunds only for paid subscription plans. Free plan users are not eligible for refunds because no payment is collected.
+
+Customers may request a refund within 14 days of the first payment for a new Pro or Enterprise subscription. Refund requests made after 14 days are usually not accepted unless required by local law.
+
+Refunds are only available for the first billing cycle. Renewal payments are non-refundable unless there is a duplicate charge, billing error, or service outage caused by DerivMate.
+
+To request a refund, the customer must contact support by email and provide the account email address, payment date, plan name, and reason for the request. The support team may ask for additional details before approving the refund.
+
+If a refund is approved, the payment will be returned to the original payment method. Processing usually takes 5 to 10 business days, depending on the payment provider or bank.
+
+If a customer cancels a subscription but does not request a refund within the refund period, the account will remain active until the end of the paid billing cycle.
+
+DerivMate does not provide partial refunds for unused time, unused storage, inactive users, or projects that were not completed.
+
+Accounts that violate the terms of service, abuse the platform, or attempt fraudulent payments may not be eligible for refunds.
