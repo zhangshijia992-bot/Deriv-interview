@@ -30,14 +30,45 @@ Python 3.10+ is recommended. If you are using a very new Python version and `sci
 
 ## Run
 
+Start the FastAPI server with:
+
 ```bash
 python -m uvicorn App:app --reload
 ```
 
 The API will run at:
 
-```text
+```txt
 http://127.0.0.1:8000
+```
+
+Open the interactive Swagger API documentation at:
+
+```txt
+http://127.0.0.1:8000/docs
+```
+
+Use the endpoints in this order:
+
+1. Open `POST /index`
+2. Click `Try it out`
+3. Click `Execute`
+4. Then open `POST /ask`
+5. Enter a question and click `Execute`
+
+The root URL below is only a health check:
+
+```txt
+http://127.0.0.1:8000
+```
+
+It should return something like:
+
+```json
+{
+  "status": "ok",
+  "message": "Simple RAG API is running."
+}
 ```
 
 ## Endpoints
