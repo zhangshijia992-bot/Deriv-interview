@@ -31,7 +31,7 @@ Python 3.10+ is recommended. If you are using a very new Python version and `sci
 ## Run
 
 ```bash
-uvicorn app:app --reload
+python -m uvicorn App:app --reload
 ```
 
 The API will run at:
